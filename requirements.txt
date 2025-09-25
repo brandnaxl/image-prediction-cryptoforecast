@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+mplfinance
+pandas_ta
+scikit-learn
+tensorflow
+tqdm
+Pillow
